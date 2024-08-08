@@ -12,20 +12,16 @@ This repository distributes materials from previous workshops and courses conduc
 
 Materials
 
-	•	Practice 1: Google Colaboratoy
-	•	Practice 2: Loading Datasets
-	•	Practice 3: Visualizing and Processing Datasets
-	•	Practice 4: MLP1
-	•	Practice 5: MLP2
+	•	Practice 1: Loading Datasets and Visualizing
+	•	Practice 2: Visualizing and Processing Datasets
+	•	Practice 3: MLP1
+	•	Practice 4: MLP2
+	•	Practice 5: training
 	•	Practice 6: CNN
-	•	Practice 7: Data Augmentation
+	•	Practice 7: Group Exercise
 	•	Practice 8: Group Exercise
-	•	Practice 9: NLP1
-	•	Practice 10: NLP2
-	•	Practice 11: NLP3
-	•	Practice 13: Dimensionality Reduction
-	•	Practice 14: Clustering
-	•	Practice 15: General Review
+	•	Practice 9: Dimensionality Reduction
+	•	Practice 10: Clustering
 
 Links
 
@@ -43,20 +39,17 @@ MITライセンスに従って、教材は自由に使用することが出来�
 教材を授業等に使用した方は、必ず、各教材スライド1枚目のアンケートにご回答ください。
 ```
 構成. 
-practice1 : Google Colaboratoyの導入
-practice2 : データセットの読み込み
-practice3 : データセットの可視化と加工
-practice4 : MLP1
-practice5 : MLP2
+practice1 : データセットの読み込みと表示
+practice2 : データセットの可視化と加工
+practice3 : MLP1
+practice4 : MLP2
+practice5 : 学習の仕組み
 practice6 : CNN
-practice7 : データ拡張
+practice7 : グループ演習
 practice8 : グループ演習
-practice9 : NLP1
-practice10 : NLP2
-practice11 : NLP3
-practice13 : 次元削減
-practice14 : クラスタリング
-practice15 : 総論
+practice9 : 次元削減
+practice10 : クラスタリング
+
 
 ```
 リンク
